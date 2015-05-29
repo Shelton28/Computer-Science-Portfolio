@@ -1,0 +1,191 @@
+body {
+	background-color: #CCEBF5;
+}
+#Main {
+	border-radius: 100%;
+	background-color: red;
+	border: 1px solid black;
+}
+
+#Coin {
+	border-radius: 100%;
+	background-color: yellow;
+	border: 1px solid black;
+}
+
+.wall {
+	position: absolute;
+	background-color: black;
+}
+
+#w1 {
+	left: 500px;
+	height: 520px;
+	width: 10px;
+}
+
+#w2 {
+	top: 115px;
+	left: 550px;
+	height: 500px;
+	width: 10px;
+}
+
+#w3 {
+	top: 100px;
+	left: 50px;
+	height: 50px;
+	width: 50px;
+}
+
+#w4 {
+	top: 100px;
+	left: 150px;
+	height: 50px;
+	width: 50px;
+}
+
+#w5 {
+	top: 100px;
+	left: 250px;
+	height: 50px;
+	width: 50px;
+}
+
+#w6 {
+	top: 100px;
+	left: 350px;
+	height: 50px;
+	width: 50px;
+}
+
+#w7 {
+	top: 200px;
+	height: 10px;
+	width: 300px;
+}
+
+#w8 {
+	top: 200px;
+	left: 310px;
+	height: 200px;
+	width: 10px;
+}
+
+#w9 {
+	top: 200px;
+	left: 600px;
+	height: 500px;
+	width: 500px;
+}
+
+#w10{
+	top: 20px;
+	left: 600px;
+	height: 20px;
+	width: 20px;
+}
+
+#w11 {
+	top: 170px;
+	left: 400px;
+	height: 50px;
+	width: 50px;
+}
+
+#w12 {
+	top: 20px;
+	left: 350px;
+	height: 20px;
+	width: 90px;
+}
+
+#w13 {
+	top: 100px;
+	left: 800px;
+	height: 20px;
+	width: 100px;
+}
+#w12 {
+	top: 500px;
+	left: 100px;
+	height: 100px;
+	width: 50px;
+}
+#w13 {
+	top: 550px;
+	left: 200px;
+	height: 10px;
+	width: 300px;
+}
+
+#w14 {
+	top: 20px;
+	left: 1000px;
+	height: 100px;
+	width: 10px;
+}
+#w15 {
+	top: 300px;
+	left: 100px;
+	height: 100px;
+	width: 100px;
+}
+
+#w16 {
+	top: 100px;
+	left: 700px;
+	height: 50px;
+	width: 200px;
+}
+#w17 {
+	top: 300px;
+	left: 1130px;
+	height: 10px;
+	width: 10px;
+}
+#w18 {
+	top: 350px;
+	left: 1100px;
+	height: 10px;
+	width: 10px;
+}
+#w19 {
+	top: 400px;
+	left: 1130px;
+	height: 10px;
+	width: 10px;
+}
+#w20 {
+	top: 450px;
+	left: 1130px;
+	height: 10px;
+	width: 10px;
+}
+#w21 {
+	top: 500px;
+	left: 1130px;
+	height: 10px;
+	width: 10px;
+}
+#w22 {
+	top: 550px;
+	left: 1130px;
+	height: 10px;
+	width: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

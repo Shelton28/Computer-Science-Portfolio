@@ -1,0 +1,46 @@
+*:focus {
+    outline: 0;
+}
+
+}
+#switch {
+	height: 50px;
+	width: 50px;
+	border-radius: 100%;
+}
+
+h1 {
+	text-align: center;
+	color: black;
+	font-size: 35px;
+}
+
+#status td {
+	text-align: center;
+	padding: 8px;
+}
+
+#grid td {
+	text-align: center;
+    border: 3px white solid;
+    border-radius: 10%;
+    text-align: center;
+    font: helvetica;
+    background-color: #006699;
+}
+
+.square {
+	height: 100px;
+	width: 100px;
+	border-radius: 10%;
+	background-color: #EDEDED;
+	padding-top: 50px 50px 50px 50px;
+	text-align: center;
+	font-size: 40px;
+	margin: 6px 5px 6px 5px;
+}
+
+.square:hover {
+	background-color: #80FFCC;
+	color: red;
+}

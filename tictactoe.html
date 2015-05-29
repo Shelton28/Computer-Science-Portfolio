@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tic-Tac-Toe</title>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" type="text/css" href="ttt.css">
+  </head>
+  <body>
+<!-- Page Content -->
+    <h1>Tic-Tac-Toe</h1>
+    <div>
+      <table align="center" id="status">
+        <tr>
+          <td colspan="3">Player1 goes first.</td>
+        </tr>
+        <tr>
+          <td id="p1Status">Player1 = O</td>
+          <td><button id="switch" type"button"><a href="tictactoe.html">Reset</a></button></td>
+          <td id="p2Status">Player2 = X</td>
+        </tr>
+      </table>
+    </div>
+
+    <div class="Game" align="center">
+      <table id="grid" align="center">
+        <tr align="center">
+          <td align="center"><button id="one" class="square" type="button"></button></td>
+          <td align="center"><button id="two" class="square" type="button"> </button></td>
+          <td align="center"><button id="three" class="square" type="button">  </button></td>
+        </tr>
+        <tr align="center">
+          <td align="center"><button id="four" class="square" type="button">   </button></td>
+          <td align="center"><button id="five" class="square" type="button">    </button></td>
+          <td align="center"><button id="six" class="square" type="button">     </button></td>
+        </tr>
+        <tr align="center">
+          <td align="center"><button id="seven" class="square" type="button">      </button></td>
+          <td align="center"><button id="eight" class="square" type="button">       </button></td>
+          <td align="center"><button id="nine" class="square" type="button">        </button></td>
+        </tr>
+        </table>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="ttt.js"></script>
+  </body>
+</html>
